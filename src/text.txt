@@ -1,0 +1,47 @@
+
+
+DONE - to add a navbar which is displayed on each page
+DONE- to add active buttons (dont know how to do it)
+DONE - local storage to the liked photos 
+DONE - to be able to add just a photo of each in the liked section
+DONE - delete all photos
+DONE- delete individual photos
+DONE - near the like, to show how many items are in the liked section
+DONE - to have an about page (a photo with me and my zenit)
+
+DONE - navbar
+
+
+DONE- to add a like button to 'images' page
+Done- once photo is liked, to display for 1-2 seconds : photo added to your list
+DONE- if i move down, from one point to display an arrow that once cliked, will scroll the page up
+DONE-react router: maintain scroll position
+
+
+DONE - toggle the sidebar
+
+DONE- in the single page, to have another right arrow and to use them to navigate through photos, despite just going back to home. 
+DONE - also, in the single page, to have the like 
+
+DONE- another idea: when i photo is liked, to display smth: for example to color the liked button and to let it displayed.
+
+DONE- liked.length number to the sidebar liked page
+DONE- to style the description in the single page
+
+DONE-to see if the color of black blue will be ok for all the descriptions
+-maybe to have an animation for when the detele button is clicked (images page)
+
+- if website takes to much to load, to display for 2-5 sec a loading icon
+
+- to think about a feedback form  - maybe to have it in the about section / or at the end of the photos / or another page and to have a link in the navbar
+DONE- to make website media responsive for phone
+
+DONE-sidebar: to add animation to the camera icon
+
+DONE- to have the alert positioned % width.
+
+NOT NEEDED-about page - to have quite a long description, but from one point to add the button 'read more' and once it is clicked, to display on the whole page the description (to have also a close button) - here i will have to use the "overflow"
+- about page - to make the text clickable, and once it is clicked to display it bigger
+
+DONE-single page - to move the buttons in the middle
+-i dont think that every picture should have a description
